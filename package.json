@@ -1,0 +1,26 @@
+{
+  "name": "molestiasvoluptas",
+  "version": "1.0.0",
+  "description": "Adds typescript type checking to Gatsby",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrwinDenesik/molestiasvoluptas.git"
+  },
+  "keywords": [
+    "gatsby",
+    "aut",
+    "cupiditate",
+    "tempore"
+  ],
+  "author": "GwendolynJast",
+  "license": "MIT",
+  "homepage": "https://github.com/IrwinDenesik/molestiasvoluptas.git",
+  "dependencies": {
+    "fork-ts-checker-webpack-plugin": "^5.2.0"
+  },
+  "devDependencies": {
+    "np": "^6.5.0",
+    "prettier": "^2.1.2"
+  }
+}
